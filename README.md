@@ -14,7 +14,6 @@
 ## Live Demo & Download
 
 - [Live Demo App](https://drive.google.com/file/d/1DKxsQMZ7QLssfLAWirGpFW8tCCpfFvDo/view?usp=sharing)
-- [Handbook](https://docs.google.com/document/d/1b2i6JvVOx9b7LnGhF-n1n-eDNWY2baGJ/edit?usp=sharing&ouid=114878923314877360108&rtpof=true&sd=true)
 
 ## License
 
