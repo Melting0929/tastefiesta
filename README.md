@@ -15,6 +15,9 @@
 
 - [Live Demo App](https://drive.google.com/file/d/1DKxsQMZ7QLssfLAWirGpFW8tCCpfFvDo/view?usp=sharing)
 
+- Username: Admin
+- Password: Admin123
+
 ## License
 
 - This project is licensed under the MIT License. See the LICENSE file for more details.
