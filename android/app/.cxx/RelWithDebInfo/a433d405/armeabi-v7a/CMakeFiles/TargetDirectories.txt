@@ -1,0 +1,2 @@
+C:/src/taste_fiesta/android/app/.cxx/RelWithDebInfo/a433d405/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/src/taste_fiesta/android/app/.cxx/RelWithDebInfo/a433d405/armeabi-v7a/CMakeFiles/rebuild_cache.dir

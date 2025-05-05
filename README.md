@@ -1,16 +1,21 @@
-# taste_fiesta
+# TasteFiesta
 
-A new Flutter project.
 
-## Getting Started
+**Taste Fiesta** is a user-friendly recipe app designed to bring creativity, convenience, and community to food lovers of all kinds. Whether you're a professional chef, a beginner in the kitchen, or simply someone who enjoys experimenting with flavors, Taste Fiesta offers an all-in-one platform to discover, share, and save recipes with ease.
 
-This project is a starting point for a Flutter application.
+## Key Features
 
-A few resources to get you started if this is your first Flutter project:
+- Quickly find recipes by ingredients, cuisine type, or name.
+- Upload your own recipes with others through a straightforward upload system.
+- Personalized favourites by Save and manage your favorite recipes for easy access later.
+- Whether you're just starting or you're an experienced cook, Taste Fiesta provides value for everyone.
+- Clean design and intuitive navigation for a smooth user journey.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Live Demo & Download
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Live Demo App](https://drive.google.com/file/d/1DKxsQMZ7QLssfLAWirGpFW8tCCpfFvDo/view?usp=sharing)
+- [Handbook](https://docs.google.com/document/d/1b2i6JvVOx9b7LnGhF-n1n-eDNWY2baGJ/edit?usp=sharing&ouid=114878923314877360108&rtpof=true&sd=true)
+
+## License
+
+- This project is licensed under the MIT License. See the LICENSE file for more details.
